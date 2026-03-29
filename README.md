@@ -1,12 +1,12 @@
 **What upupdate Does**
 
-Updates Arch/Arch Forks system packages through paru
-Rates and updates mirrors with rate-mirrors
-Updates Flatpak, Snap, Fisher, Rust, pip, npm, Cargo, and firmware if installed (if not, auto skips)
-Cleans package cache (keeps last 2 versions)
-Removes orphaned packages
-Cleans paru/yay build cache
-Vacuums systemd journal logs older than 2 weeks
+- Updates Arch/Arch Forks system packages through paru
+- Rates and updates mirrors with rate-mirrors
+- Updates Flatpak, Snap, Fisher, Rust, pip, npm, Cargo, and firmware if installed (if not, auto skips)
+- Cleans package cache (keeps last 2 versions)
+- Removes orphaned packages
+- Cleans paru/yay build cache
+- Vacuums systemd journal logs older than 2 weeks
 
 **Tags**
 
