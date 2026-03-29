@@ -28,11 +28,12 @@ curl -o ~/.local/bin/upupdate https://raw.githubusercontent.com/SplitSlime/upupd
 
 chmod +x ~/.local/bin/upupdate
 
-And then just type "upupdate" or "upupdate -c"
+And then just type *upupdate* or *upupdate -c*
 
 **Alias (Optional)**
 
-Simply add "alias upupdate='~/.local/bin/upupdate'" in your corresponding terminal config.
+Simply add *alias upupdate='~/.local/bin/upupdate'* in your corresponding terminal config.
+
 ~/.bashrc (Bash), ~/.zshrc (Zsh), or ~/.config/fish/config.fish (Fish).
 
 **Note About Orphan Removals**
