@@ -12,14 +12,15 @@ Vacuums systemd journal logs older than 2 weeks
 
 **Tags**
 
-May add more in the future, the currently only tag is "-c".
-When you type "upupdate -c" it requires you to confirm each option manually.
+May add more in the future, the currently only tag is *-c*.
+When you type *upupdate -c* it requires you to confirm each option manually.
 
 **Prerequisites**
 
 sudo pacman -S pacman-contrib rate-mirrors-bin
 
 **Install**
+
 *Download and save file to path*
 
 curl -o ~/.local/bin/upupdate https://raw.githubusercontent.com/SplitSlime/upupdate/main/upupdate.sh
