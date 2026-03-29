@@ -1,6 +1,4 @@
-Simple command line script to automate or ease maintenance on Arch Linux or any forks of it.
-
-**What It Does**
+**What upupdate Does**
 
 Updates Arch/Arch Forks system packages through paru
 Rates and updates mirrors with rate-mirrors
