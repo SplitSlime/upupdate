@@ -17,7 +17,7 @@ When you type *upupdate -c* it requires you to confirm each option manually.
 
 **Prerequisites**
 
-sudo pacman -S pacman-contrib rate-mirrors-bin
+*sudo pacman -S pacman-contrib rate-mirrors-bin*
 
 **Install**
 
